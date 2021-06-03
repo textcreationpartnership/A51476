@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Most strange and dreadful apparition of several spirits &amp; visions at several times seen and spoken to, on the 14, 15, and 16th of this instant July, 1680, at the house of Mr. John Thomas, Junior, next door to the Sign of the Crown, at Cow Cross, in the parish of St. Sepulchres, London ... : with many more circumstances not here related, but will be certainly justified for truths, by the (credible) spectators.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51476</idno><idno type="EEBO-CITATION">11769474</idno>
+  <idno type="VID">48821</idno>
+  <idno type="EEBO-PROQUEST">2240857881</idno>
+  
+            <idno type="STC">Wing M2920</idno>
+            <idno type="STC">ESTC R31048</idno>
+            <idno type="OCLC">11769474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Most strange and dreadful apparition of several spirits &amp; visions at several times seen and spoken to, on the 14, 15, and 16th of this instant July, 1680, at the house of Mr. John Thomas, Junior, next door to the Sign of the Crown, at Cow Cross, in the parish of St. Sepulchres, London ... : with many more circumstances not here related, but will be certainly justified for truths, by the (credible) spectators.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Clarke ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print showthrough and slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apparitions --  England.</term>
+               <term type="topical_term">Poltergeists --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48821:1"/>
+            <p>A most Strange and Dreadful APPARITION OF SEVERAL Spirits &amp; Visions, At several times seen and spoken to, on the 14, 15, and 16th. of this Instant <hi>July,</hi> 1680. at the House of Mr. <hi>John Thomas,</hi> Junior; next Door to the Sign of the <hi>Crown,</hi> at <hi>Cow Cross,</hi> in the PARISH of St. Sepulchres, <hi>London.</hi>
+            </p>
+            <p>Giving you a Just and True Account of their several Shapes they appeared in at several times, Viz <hi>Ratts, Puppets,</hi> and <hi>Boys,</hi> with their strange manner of Garbs, some having Hats, other Hoods, o<g ref="char:EOLhyphen"/>thers bloody Knives in their Hands.</p>
+            <p>Also discovering the several <hi>Questions</hi> which were Asked them by Mr. <hi>John Thomas,</hi> Seignior, a person of above Fourscore Years of Age, with a full account of their particular An<g ref="char:EOLhyphen"/>swers, ready to be Attested by the aforesaid <hi>John Thomas,</hi> Seignior, and Three Servants more belonging to Mr. <hi>John Thomas,</hi> Junior. With their manner of Behaviour, which by the Shapes that appear<g ref="char:EOLhyphen"/>ed like Boys, was in Dancing a pretty while, and then bowing, vanisht away in Smoak, and other some in Flashes of Fire: Not forgetting the Consternation and Amazement which possest the Carpenter, who was imployed in taking up of Boards in order to the searching for the Mo<g ref="char:EOLhyphen"/>ney which these Spirits said were hid.</p>
+            <p>With many more Circumstances, not here related, but will be certainly Justified for Truths, by the (credible) Spectators.</p>
+            <p>Prin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for <hi>J. Clarke,</hi> in <hi>West-smith-field,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48821:2"/>
+            <pb n="1" facs="tcp:48821:2"/>
+            <head>A most Strange and Dreadful <hi>APPARITION OF SEVERAL <hi>Spirits and Visions.</hi>
+               </hi>
+            </head>
+            <p>
+               <hi>I</hi> Have now considered, and conceive it not Impertinent to ex<g ref="char:EOLhyphen"/>pose to publique view, the strange and dreadful Apparitions of Spirits, that pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted themselves in several shapes and forms, to astonishment and Terror of those that lived in the house (of Mr. <hi>John Thomas,</hi> Book-Binder, at <hi>Cow-Cross,</hi> next door to the sign of the <hi>Crown,</hi> in the Parish of <hi>St. Sepul<g ref="char:EOLhyphen"/>chres, London,</hi>) who was Eye-witnesses and Spectators, of which I was the chief Observator: herein I shall answer the ex<g ref="char:EOLhyphen"/>pectation of them that d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sire to be informed of the Truth there<g ref="char:EOLhyphen"/>of, I shall not amuse the World with feigned Stories and fictious Delusions, but to satisfie, the Curious and Moderate Civiliz'd Persons, as for the Incredulous, they may rest dissatisfied; but for the Censorious and Calumnies of the Rude Multitude, whose mouths I cannot stop, spreading abroad Reports and fallitious Conceptions as their own fancies leads them to, for you know <hi>Fama Crescit Eundo;</hi> Again I shall use the words of St. <hi>Paul, I speak in the presence of God, I Lye not, and what is it that makes the people so Dubious and Unbelieving,</hi> because the like Apparition was never seen or known in the Memory of any Man Living.</p>
+            <pb n="1" facs="tcp:48821:3"/>
+            <p>ABout Two Months ago, the beginning of <hi>June</hi> last, we was much troubled and molested with strange Visions in the shape of Ratts, which appeared to us dayly all the said Month, and most part of <hi>July,</hi> to our great disturbance, breaking down the Walls in Two Rooms three pair of Stairs high, where we did work, throwing about the Loam, Rubbish, and Dust, that we could not quietly follow our Work and employments, and we endeavoured to destroy and kill them, but could never effect it, for we have hit and struck them down, yet for all that they Va<g ref="char:EOLhyphen"/>nish away, and was not hurt at all; they was so bold and daring, that they would stand before us and run up and down, pinching us by the Leggs, and could not be rid of them, for nothing would affright <hi>them,</hi> and they continued disfacing the Rooms all Day, and most part of the Night, that we could not lye quietly in our Beds, tumbling and throwing of eve<g ref="char:EOLhyphen"/>ry thing about that was in their way, to the great disturbance of us at our employments, and spoyling all our Work: these Visions of Rats continued Six or Seven weeks: at last they appeared to us like Chickens or Pidgeons, and after in a round circum<g ref="char:EOLhyphen"/>ference like to Foot-balls; and two days after, which
+<pb n="2" facs="tcp:48821:3"/> was the 14th. day of <hi>July,</hi> they appeared again in the likeness and shape of Boys and Girls, at which visions we was greatly affrighted and astonished: At first appearance of the spirits, which did much amaze us, and put us into a great consternation, it appeared to us in the shape of a <hi>Puppit,</hi> with a Coat on, and danced a little while, then bowing to us it vanisht: after this comes another Spirit with a Cap on his head, and in another shape, and danced a little while, and bowed to us, and then vanisht: They began to appear first about 9 in the Fore-noon, and continued until 12 at Noon, and every Spirit that appeared was in a several shape, and there never came but one at a time: some came with Caps on their heads, some with Hats, some Hoods, and some with straw Hats, some with paper Hats, as we judged; some with white Dressings on their heads, every one had several shapes to our view, and they danc'd every one a while, and bowed to us, and then vanish'd: some of these Visions had red and bloody Faces, some with several things in their hands, one had a brush in his hand, another had a piece of Paper, and swept the place where they danced, another had a Knife in his Hand, another had a Book in his hand, open like to a stitch'd Al<g ref="char:EOLhyphen"/>manack, another had a Letter on his head, another
+<pb n="3" facs="tcp:48821:4"/> with a Paper lighted and burning in his hand, ano<g ref="char:EOLhyphen"/>ther came shakeing her Coat about with sparkles of Fire that flew all about the Room, then vanisht, and when they vanisht it was into smoak, so that if judged, there appeared in Three hours near three<g ref="char:EOLhyphen"/>score of these Spirits or Visions, and in the After<g ref="char:EOLhyphen"/>noon they flung Loam and rubbish about the <hi>rooms</hi> until Ten a Clock at Night, and then ceased: The next morning being the 15th. day of <hi>July,</hi> they ap<g ref="char:EOLhyphen"/>peared again about 8 in the morning, in long Coats muffled about their Faces, and thend did undertake to speak to them, and to the first that came, I said thus <hi>I charge and conjure you in the Name of God to tell me why you do frequent and haunt this place?</hi> it did Va<g ref="char:EOLhyphen"/>nish away, and did give little or no answer that I could understand: The next tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came I spoke the same words to it, something ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uptly, but answer'd me <hi>Murder</hi> at last, and vanisht the third that came to me, I spoke the words to it as I did before, and it answered me, <hi>And there is Money</hi> another came, and I spoke to it, and it answered, <hi>Money, Money,</hi> and then vanisht: then another came, and I spoke to it, and asked it, <hi>Where is this Money?</hi> it answered me, <hi>In the next Wall:</hi> another came, and I spoke to it, <hi>where is this Money?</hi> it answered me, <hi>In the next House in the Wall:</hi> another came, and I spoke to it, <hi>Tell me plainly
+<pb n="4" facs="tcp:48821:4"/> where this Money is hid?</hi> it answered me, <hi>In a Brick<g ref="char:EOLhyphen"/>wall in the Chimney,</hi> and then vanisht: at other owne, and I spoke to it again, and it answered me as the rest did, <hi>In the Wall in a Chimney:</hi> Another came, and I spoke to it, and asked, <hi>How much Money was hid?</hi> it presently answered me, Five and Twenty pound. And divers others appear'd, and about Noon they ceased and came no more; but in the Afternoon they threw the Loam and Rubbidge up and down the Rooms, that we was forced to abandon and leave the Rooms, and work in another place. They continued the flinging of the Loam about, until Midnight, and going to our Beds, resolved to set a Candle lighted all night by us, but they would endure no Candle-light, but struck them out six or seven times, and broke the Candle in several pieces. This lasted about an hour, and then we was quiet that night: the next day the Spirits appeared no more, but the flinging of Loam and dust about, and most part of the day appeared flashes of Fire, &amp; a great deal of smoak and so continued till night; after this we stayed below stairs until 11 a Clock at night, then we did not go to Bed in the same rooms, but lay below in another Chamber; and we had not been in Bed a quarter of an hour, but there was thrown out of the upper rooms (where the
+<pb n="5" facs="tcp:48821:5"/> Spirits Haunted) a Hammer of ten pound weight, down the Stairs, and two or three great stones came tumbling down the said stairs and beat the Cham<g ref="char:EOLhyphen"/>ber door open, and beat off the Lock, so we was forced to go out of our Beds and leave the Cham<g ref="char:EOLhyphen"/>ber: The noise was was so great, that we thought the house had fallen down, and the people below was sore affrighted, and ready to run out of the house: after Twelve a Clock at night we heard no more, and have been quiet ever since. We have not had any appearance or disturbance at all, onely this I shall declare, The affrights and amazement the Carpenter had in taking up the Boards in the next house, and in our house, that he was forced to run away, &amp; scarce had time to take his Tools with him.</p>
+            <p>Besides, Neighbours report that this house was Haunted with Spirits about a dozen years ago, and the Spirits been laid for a time, which, it seems, is now expired, which caused them to appear again; but praised be Almighty God, we are all now at quiet, having never since seen not heard any thing that have molested or troubled us.</p>
+            <p>All the Loam and Rubbidge they threw about, was Invisible until is hit us.</p>
+            <epigraph>
+               <q>Magna est Veritas &amp; Prevalebit.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
